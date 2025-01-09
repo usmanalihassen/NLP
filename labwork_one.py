@@ -5,3 +5,4 @@ from nltk.book import *
 print(text1)
 print(text2)
 print(text1.concordance("monstrous"))
+print(text4)
